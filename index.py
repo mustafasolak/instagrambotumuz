@@ -1,1 +1,6 @@
-print("Selam ben geldim ")
+Örnek kodlaar
+
+// print("Selam ben geldim ")
+
+
+Yeni kodlar ekledim
